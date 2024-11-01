@@ -1,0 +1,20 @@
+.btn-red{
+	background-color: #F5004F;
+	padding: 15px 20px;
+	border-radius: 6px;
+	color: white;
+	font-weight: bold;
+	font-family: Roboto, sans-serif;
+
+}
+
+.btn-pink{
+	background-color: #FF0080;
+	padding: 15px 20px;
+	border-radius: 6px;
+	color: white;
+	font-weight: bold;
+	font-family: Roboto, sans-serif;
+
+}
+
